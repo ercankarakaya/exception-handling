@@ -1,4 +1,4 @@
-package com.entity;
+package com.ercan.entity;
 
 import lombok.Data;
 

@@ -1,8 +1,8 @@
-package com.service;
+package com.ercan.service;
 
-import com.entity.Person;
-import com.exception.PersonNotFoundException;
-import com.repository.PersonRepository;
+import com.ercan.entity.Person;
+import com.ercan.exception.PersonNotFoundException;
+import com.ercan.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

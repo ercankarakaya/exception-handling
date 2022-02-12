@@ -1,8 +1,8 @@
-package com;
+package com.ercan;
 
-import com.entity.Person;
-import com.exception.ResponseApi;
-import com.service.PersonService;
+import com.ercan.entity.Person;
+import com.ercan.exception.ResponseApi;
+import com.ercan.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
